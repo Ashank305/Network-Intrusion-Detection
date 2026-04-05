@@ -8,9 +8,6 @@ venv/
 env/
 .venv/
 
-# Model artifacts
-saved_model/
-
 # IDE
 .vscode/
 .idea/
